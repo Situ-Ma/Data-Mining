@@ -1,0 +1,17 @@
+Situ Ma
+
+## For SVM:
+Package needed: cvxopt
+--To install: pip install cvxopt
+
+How to Run:
+-->python SVM.py [hard/soft] [kernel methods]
+
+hard/soft:
+hard: 0
+soft: 1
+
+kernel methods:
+linear_kernel: 0
+polynomial_kernel: 1
+gaussian_kernel: 2

@@ -1,0 +1,19 @@
+Situ Ma
+
+Included files:
+i.    linearRegression.py: filled in the required parts of code. Python version 3.
+ii.   logisticRegression.py: filled in the required parts of code. Python version 3.
+iii.  README: description of submitted files and instructions.
+iV.   report.pdf: all information required by the spec. Beta, MSE, answer to questions.
+
+How to run the code:
+1) linearRegression.py
+python linearRegression.py [version] [normalization]
+version: 0 for closed form, 1 for batch gradient descent, 2 for stochastic gradient descent.
+normalization: 0 for without z-score normalization, 1 for with normalization.
+
+2) logisticRegression.py
+python logisticRegression.py [version] [normalization]
+version: 0 for batch gradient descent, 1 for Newton Raphson method, 2 for question 2b with regularization.
+normalization: 0 for without z-score normalization, 1 for with normalization.
+
