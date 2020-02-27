@@ -1,5 +1,4 @@
-# Data Mining Algorithm Implementations
-Situ Ma
+# Data Mining Algorithm Implementation
 
 Practice the implementation of main data mining methods with Python. From csv handling to result explanation.
 
@@ -15,4 +14,7 @@ Topics:
 - pLSA
 
 Each directory contains detailed usage of its Python code.
+
+
+Situ Ma 
 
